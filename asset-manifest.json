@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ravan/static/css/main.d93a2dd9.chunk.css",
+    "main.js": "/ravan/static/js/main.d6f567c6.chunk.js",
+    "main.js.map": "/ravan/static/js/main.d6f567c6.chunk.js.map",
+    "runtime-main.js": "/ravan/static/js/runtime-main.13fe9dba.js",
+    "runtime-main.js.map": "/ravan/static/js/runtime-main.13fe9dba.js.map",
+    "static/js/2.8712671e.chunk.js": "/ravan/static/js/2.8712671e.chunk.js",
+    "static/js/2.8712671e.chunk.js.map": "/ravan/static/js/2.8712671e.chunk.js.map",
+    "index.html": "/ravan/index.html",
+    "precache-manifest.18a59b762b613aecbb2ddc73bba55660.js": "/ravan/precache-manifest.18a59b762b613aecbb2ddc73bba55660.js",
+    "service-worker.js": "/ravan/service-worker.js",
+    "static/css/main.d93a2dd9.chunk.css.map": "/ravan/static/css/main.d93a2dd9.chunk.css.map",
+    "static/js/2.8712671e.chunk.js.LICENSE.txt": "/ravan/static/js/2.8712671e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ravan/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13fe9dba.js",
+    "static/js/2.8712671e.chunk.js",
+    "static/css/main.d93a2dd9.chunk.css",
+    "static/js/main.d6f567c6.chunk.js"
+  ]
+}
